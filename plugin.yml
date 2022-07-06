@@ -1,0 +1,15 @@
+main: sarry20.voltionstaff.Main
+version: 1.0.0
+name: VoltionStaff
+api-version: 1.17
+
+commands:
+  staff:
+    aliases: [h, mod, staffmode,m]
+  freeze:
+    aliases: [ss,screenshare,congelar]
+  sboard:
+    aliases: [vsboard,vboard]
+  rollback:
+    aliases: [rb]
+  

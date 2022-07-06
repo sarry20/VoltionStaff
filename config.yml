@@ -1,0 +1,20 @@
+Config:
+  add-freeze-staff:
+  - "&bHas congelado a &a%player%"
+  add-freeze-target:
+  - "&eFuiste congelado no te desconectes o seras baneado"
+  - "&eEntra a discord para ser revisado por un staff puedes entrar"
+  - "&ea traves de el siguiente enlace"
+  - "&bhttps://discord.com/invite/jTnW4SZ"
+  remove-freeze-staff:
+  - "&bHas descongelado a &a%player%"
+  remove-freeze-target:
+  - "&eHas sido descongelado, gracias por tu colaboracion"
+
+
+MySQL:
+  host: '127.0.0.1'
+  port: 3306
+  database: 'VoltionStaff'
+  username: 'root'
+  password: 'password'
